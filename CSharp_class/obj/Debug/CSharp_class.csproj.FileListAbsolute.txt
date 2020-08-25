@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\bin\Debug\CSharp_class.exe.config
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\bin\Debug\CSharp_class.exe
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\bin\Debug\CSharp_class.pdb
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.Form1.resources
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.Properties.Resources.resources
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.exe
+C:\Users\user\source\repos\tangxxbo\CSharp_class\CSharp_class\obj\Debug\CSharp_class.pdb
